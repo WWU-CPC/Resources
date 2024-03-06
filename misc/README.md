@@ -1,3 +1,5 @@
+# Cool Newsletters
+
 Job Opening Newsletters:
 - IYKYK: https://www.iykyk.careers/
 - Career Brew: https://careerbrew.substack.com/about?utm_source=subscribe_email&utm_content=learn_more
