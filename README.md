@@ -1,2 +1,2 @@
 # Resources
-Helpful resources for school and career that we have gathered over the years!
+This is where we store our files for our [resources wiki](https://github.com/WWU-CPC/Resources/wiki) - interface with them there!
